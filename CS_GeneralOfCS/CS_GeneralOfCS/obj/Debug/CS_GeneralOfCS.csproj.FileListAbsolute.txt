@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\obj\Debug\CS_GeneralOfCS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\obj\Debug\CS_GeneralOfCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\bin\Debug\CS_GeneralOfCS.exe.config
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\bin\Debug\CS_GeneralOfCS.exe
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\bin\Debug\CS_GeneralOfCS.pdb
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\obj\Debug\CS_GeneralOfCS.exe
+C:\Users\Admin\source\repos\CS_GeneralOfCS\CS_GeneralOfCS\obj\Debug\CS_GeneralOfCS.pdb
